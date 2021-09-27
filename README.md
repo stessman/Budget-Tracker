@@ -25,4 +25,4 @@ Once this is done you should be good to go.
 ## Usage Information
 Firstly verify that all installation instructions are completed. Open the terminal at the top level of the project and run 'npm start' to start the server. The user is able to add deposits while offline, add expenses while offline, and when the user goes online on the site then those entries are added to the tracker.
 
-Link to app usage video: [Budget Tracker](https://shielded-bayou-98170.herokuapp.com/)
+Link to app usage video: [Budget Tracker](https://young-plains-90779.herokuapp.com/)
